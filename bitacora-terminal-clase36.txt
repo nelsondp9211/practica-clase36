@@ -1,0 +1,108 @@
+BITÁCORA DE TERMINAL - CLASE 36
+Código abierto, soberanía tecnológica y primeros pasos en terminal
+
+Nombre del estudiante: Nelson Enrique Díaz Payares 
+Fecha: 14 de julio 2026
+Clase: 36
+Entorno usado: VisualStudio Code 
+
+1. ¿Qué es un sistema operativo?
+Respuesta:
+
+2. ¿Qué es el código abierto?
+Respuesta:
+
+3. ¿Qué significa soberanía tecnológica?
+Respuesta:
+
+4. ¿Qué es Linux?
+Respuesta:
+
+5. ¿Qué es Debian?
+Respuesta:
+
+6. ¿Qué es un servidor?
+Respuesta:
+
+7. ¿Qué es una terminal?
+Respuesta:
+
+8. Comandos ejecutados y resultado observado:
+
+Comando: whoami
+Resultado:
+
+Comando: hostname
+Resultado:
+
+Comando: date
+Resultado:
+
+Comando: pwd
+Resultado:
+
+Comando: ls
+Resultado:
+
+Comando: ls -la
+Resultado:
+
+Comando: mkdir practica-linux
+Resultado:
+
+Comando: cd practica-linux
+Resultado:
+
+Comando: touch notas.txt
+Resultado:
+
+Comando: echo "Mi primera practica en terminal Debian" > notas.txt
+Resultado:
+
+Comando: cat notas.txt
+Resultado:
+
+Comando: cp notas.txt copia-notas.txt
+Resultado:
+
+Comando: mv copia-notas.txt notas-renombradas.txt
+Resultado:
+
+Comando: mkdir respaldo
+Resultado:
+
+Comando: mv notas-renombradas.txt respaldo/
+Resultado:
+
+Comando: df -h
+Resultado:
+
+Comando: free -h
+Resultado:
+
+Comando: uname -a
+Resultado:
+
+Comando: history
+Resultado:
+
+Comando: ip a
+Resultado:
+
+Comando: top
+Resultado:
+
+9. ¿Qué comando me pareció más útil y por qué?
+Respuesta:
+
+10. ¿Qué aprendí sobre el uso responsable de la terminal?
+Respuesta:
+
+11. ¿Qué información no debo publicar en capturas o evidencias?
+Respuesta:
+
+12. ¿Qué cuidados debo tener al trabajar en un servidor?
+Respuesta:
+
+13. ¿Cómo se relaciona la terminal con la soberanía tecnológica?
+Respuesta:
